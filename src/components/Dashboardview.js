@@ -19,7 +19,7 @@ const Dashboardview = () => {
        </div>
         <div className='flex items-center text-[30px] leading-[20px] font-bold text-3xl'>
         Good Evening Team!
-        <div className='flex items-center absolute text-xs mt-12 pt-4 font-normal font-serif leading-[20px] gap-[20px]'>
+        <div className='flex items-center absolute text-xs mt-12 pt-4 font-normal w-[400px] font-serif leading-[20px] gap-[20px]'>
           Have an in-depth look at all the metrics within your dashboard
         </div>
         </div>
